@@ -1,6 +1,9 @@
 # Paper-Notes
 A notebook for some good papers I have read, including their key points and English writing.
 
+
+
+
 ## 1. Classical Network Architecture
 
 ### 1.1 Residual
@@ -25,6 +28,8 @@ A notebook for some good papers I have read, including their key points and Engl
 
 ### 1.4 Others
 1.4.1  [Net2Net] [*Accelerating Learning via Knowledge Tranfer*](https://arxiv.org/pdf/1511.05641.pdf)
+
+
 
 
 ## 2. Neural Architecture Search
