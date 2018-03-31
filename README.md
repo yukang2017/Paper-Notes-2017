@@ -9,7 +9,7 @@ A notebook for some good papers I have read, including their key points and Engl
 ### 1.1 Residual
 1.1.1  [Resnet-v1] [*Deep Residual Learning for Image Recognition*](https://arxiv.org/pdf/1512.03385.pdf)
 
-1.1.2  [Resnet-v2] [*Identity Mappings in Deep Residual Networks*](https://arxiv.org/pdf/1603.05027.pdf)
+1.1.2  [[Resnet-v2]](https://github.com/yukang2017/Paper-Notes/blob/master/1.%20Classical%20Network%20Architecture/1.1.2_Resnet-v2.md) [*Identity Mappings in Deep Residual Networks*](https://arxiv.org/pdf/1603.05027.pdf)
 
 ### 1.2 Inception
 1.2.1  [Inception-v3] [*Rethinking the Inception Architecture for Computer Vision*](https://arxiv.org/pdf/1512.00567.pdf)
