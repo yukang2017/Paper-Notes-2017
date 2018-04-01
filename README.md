@@ -12,7 +12,7 @@ A notebook for some good papers I have read, including their key points and Engl
 1.1.2  [[Resnet-v2]](https://github.com/yukang2017/Paper-Notes/blob/master/1.%20Classical%20Network%20Architecture/1.1.2%20%5BResnet-v2%5D%20Notes%20by%20YK.pdf) [*Identity Mappings in Deep Residual Networks*](https://arxiv.org/pdf/1603.05027.pdf)
 
 ### 1.2 Inception
-1.2.1  [Inception-v3] [*Rethinking the Inception Architecture for Computer Vision*](https://arxiv.org/pdf/1512.00567.pdf)
+1.2.1  [[Inception-v3]](https://github.com/yukang2017/Paper-Notes/blob/master/1.%20Classical%20Network%20Architecture/1.2.1%20%5BInception-v3%5D%20Notes%20by%20YK.pdf) [*Rethinking the Inception Architecture for Computer Vision*](https://arxiv.org/pdf/1512.00567.pdf)
 
 1.2.2  [Inception-v4] [*Inception-ResNet and the Impact of Residual Connections on Learning*](https://arxiv.org/pdf/1602.07261.pdf)
 
