@@ -1,10 +1,10 @@
-# Paper-Notes
+# Paper Notes
 A notebook for some good papers I have read, including their key points and English writing.
 
 
 
 
-## 1. Classical Network Architecture
+## 1. Network Architecture Designed Manually
 
 ### 1.1 Residual
 1.1.1  [Resnet-v1] [*Deep Residual Learning for Image Recognition*](https://arxiv.org/pdf/1512.03385.pdf)
