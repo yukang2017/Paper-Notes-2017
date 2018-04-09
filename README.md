@@ -34,11 +34,11 @@ A notebook for some good papers I have read, including their key points and Engl
 
 ## 2. Neural Architecture Search
 ### 2.1  with Reinforcement Learning
-2.1.1  [450GPUs/4days] [*Learning Transferable Architectures for Scalable Image Recognition*]()
+2.1.1  [450GPUs/4days] [*Learning Transferable Architectures for Scalable Image Recognition*](https://arxiv.org/pdf/1707.07012.pdf)
 
-2.1.2  [1GPUs/0.5days] [*Efficient Neural Architecture Search via Parameters Sharing*]()
+2.1.2  [1GPUs/0.5days] [*Efficient Neural Architecture Search via Parameters Sharing*](https://arxiv.org/pdf/1802.03268.pdf)
 
 ### 2.2  with Evolutionary Algorithm
-2.2.1  [same to 2.1.1] [*Regularized Evolution for Image Classifier Architecture Search*]()
+2.2.1  [same to 2.1.1] [*Regularized Evolution for Image Classifier Architecture Search*](https://arxiv.org/abs/1802.01548)
 
-2.2.2  [2 times faster than 2.1.1] [*Progressive Neural Architecture Search*]()
+2.2.2  [2 times faster than 2.1.1] [*Progressive Neural Architecture Search*](https://arxiv.org/pdf/1712.00559.pdf)
