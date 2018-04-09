@@ -34,7 +34,7 @@ A notebook for some good papers I have read, including their key points and Engl
 
 ## 2. Neural Architecture Search
 ### 2.1  with Reinforcement Learning
-2.1.1   [NasNet](https://github.com/yukang2017/Paper-Notes/blob/master/2.%20Neural%20Architecture%20Search/2.1.1%20%5BNasNet%5D%20Notes%20by%20YK.pdf)[*Learning Transferable Architectures for Scalable Image Recognition*](https://arxiv.org/pdf/1707.07012.pdf)[450GPUs/4days]
+2.1.1  [[NasNet]](https://github.com/yukang2017/Paper-Notes/blob/master/2.%20Neural%20Architecture%20Search/2.1.1%20%5BNasNet%5D%20Notes%20by%20YK.pdf)[*Learning Transferable Architectures for Scalable Image Recognition*](https://arxiv.org/pdf/1707.07012.pdf)[450GPUs/4days]
 
 2.1.2  [1GPUs/0.5days] [*Efficient Neural Architecture Search via Parameters Sharing*](https://arxiv.org/pdf/1802.03268.pdf)
 
